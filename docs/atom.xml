@@ -4,7 +4,7 @@
  <title>Thoughtful Biometrics</title>
  <link href="/dark-poole/atom.xml" rel="self"/>
  <link href="http://infominer33.github.iodark-poole/"/>
- <updated>2020-10-12T02:33:32-04:00</updated>
+ <updated>2020-10-15T06:06:34-04:00</updated>
  <id>http://infominer33.github.io</id>
  <author>
    <name>John Callahan</name>
@@ -19,6 +19,8 @@
    <id>http://infominer33.github.io/2020/09/04/thoughtful-biometrics</id>
    <content type="html">&lt;p&gt;This interactive conference will be some time in January. 
 Dates TBD (please let us know if there are days we should avoid)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Biometric.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;invitation-or-why-we-need-this-event&quot;&gt;Invitation &lt;em&gt;or&lt;/em&gt; why we need this event:&lt;/h2&gt;
 
@@ -74,7 +76,7 @@ We also want to invite those active in the industry who want to respond in a mea
 
 &lt;p&gt;We hope that the conversations catalyzed at the event are starting points for ongoing work in fora that touch on biometrics issues.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Biometric.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/TheDigitalArtist_biometric-4503070_640.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;about-the-format&quot;&gt;About the Format&lt;/h2&gt;
 &lt;p&gt;Our inspiration for this event comes from the &lt;a href=&quot;http://www.internetidentityworkshop.com&quot;&gt;Internet Identity Workshop&lt;/a&gt; an event uses the open space technology to co-create the agenda live the day of the event. There are no keynotes or panels, it’s all about exploring the topic with professional peers from a range of industries. We are curating videos that people who are attending can watch ahead of time to get up to speed about some of the technologies and topics of interest but the format at the event is discussion driven and about peer learning. We do know great people who will be there and it is the attendees who have a passion for learning and contributing to the event that make it the success it is.&lt;/p&gt;
@@ -126,7 +128,7 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
 
 &lt;p&gt;Poole is the butler for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the static site generator. It’s designed and developed by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt; to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.&lt;/p&gt;
 
-&lt;p&gt;This demo site was last updated October 12, 2020.&lt;/p&gt;
+&lt;p&gt;This demo site was last updated October 15, 2020.&lt;/p&gt;
 
 &lt;p&gt;There are currently two themes built on Poole:&lt;/p&gt;
 
@@ -518,21 +520,6 @@ We will be hosting it virtually on the same platform that IIW uses - QiQoChat.&l
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>What's Jekyll?</title>
-   <link href="http://infominer33.github.iodark-poole/2020/03/01/whats-jekyll/"/>
-   <updated>2020-03-01T00:00:00-05:00</updated>
-   <id>http://infominer33.github.io/2020/03/01/whats-jekyll</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It’s an immensely useful tool. Find out more by &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  

@@ -4,6 +4,7 @@ url: http://infominer33.github.io
 paginate: 1
 baseurl: "dark-poole"
 permalink: pretty
+destination: docs
 
 # Gems
 plugins:
